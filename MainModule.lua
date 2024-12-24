@@ -1,4 +1,4 @@
-local MyLibrary = {}
+local VinuxUI = {}
 
 -- Chargement des composants
 local Button = require(script.Components.Button)
